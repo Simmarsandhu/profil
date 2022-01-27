@@ -1,0 +1,28 @@
+
+
+P{
+    text-align: center;
+
+
+}
+.image{
+    width:  1500px;
+    height: 200px;
+}
+.logo{
+    width: 400px;
+    height: 400px;
+}
+.div_2{
+    margin-top: 100px;
+    font-family:'Mochiy Pop P One', sans-serif ;
+    font-size: 15px;
+    margin-bottom: 100px;
+}
+section{
+    margin-top: 100px;
+}
+.row{
+     margin-top: 100px;
+}
+
